@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:0.7 em;">Hi there, I'm <a href="https://t.me/vaihdass" target="_blank">Georgy </a><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" height="24"/></h1>
+<h1 align="center" style="font-size:0.7em;">Hi there, I'm <a href="https://t.me/vaihdass" target="_blank">Georgy </a><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" height="24"/></h1>
 
 📫 E-mail: kozobrodovg@yandex.ru
 <!--
