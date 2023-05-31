@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/vaihdass" target="_blank">Georgy </a><img src="https://github.com/vaihdass/vaihdass/assets/82764694/6f188616-59f2-4fc3-ad2e-607401b362a5" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://t.me/vaihdass" target="_blank">Georgy </a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 📫 E-mail: kozobrodovg@yandex.ru
 <!--
