@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://t.me/vaihdass" target="_blank">Georgy </a><img src="https://github.com/vaihdass/vaihdass/assets/82764694/6f188616-59f2-4fc3-ad2e-607401b362a5" height="32"/></h1>
 
+📫 E-mail: kozobrodovg@yandex.ru
 <!--
 **vaihdass/vaihdass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
