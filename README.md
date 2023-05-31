@@ -10,8 +10,8 @@
   <a href="https://leetcode.com/vaihdass"><img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&amp;logo=LeetCode" alt="LeetCode" style="max-width: 100%;"></a>
 </div>
 -->
-### 💻 Experience
-##### 🎓 Studying at [KFU ITIS](https://kpfu.ru/itis)
+### 💻 Experience<br>
+🎓 Studying at [KFU ITIS](https://kpfu.ru/itis)
 ##### _Your company could be here_ =)
 
 
