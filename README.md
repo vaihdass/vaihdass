@@ -3,6 +3,8 @@
   <p align="center">Software engineering student from Russia 🇷🇺</h3>
 </div>
 
+### <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"> Links<br>
+
 **Telegram:** [@vaihdass](https://t.me/vaihdass)<br>
 **E-mail:** [kozobrodovg@yandex.ru](mailto:kozobrodovg@yandex.ru)<br>
 <div>
