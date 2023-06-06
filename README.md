@@ -1,6 +1,6 @@
 <div id="greeting">
-  <h2 align="center">Hei, mä <a href="https://t.me/vaihdass" target="_blank">Georgy</a><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" height="22" style="margin-left:1%;"/></h1>
-  <p align="center">Software engineering student from Russia 🇷🇺</h3>
+  <h2 align="center">Hei, mä <a href="https://t.me/vaihdass" target="_blank">Georgy</a><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" height="22" style="margin-left:1%;"/></h2>
+  <h6 align="center">Software engineering student from Russia 🇷🇺</h6>
 </div>
 
 ### <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"> Links<br>
