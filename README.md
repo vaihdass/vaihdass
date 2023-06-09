@@ -6,16 +6,16 @@
 ### <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"> Links<br>
 
 **Telegram:** [@vaihdass](https://t.me/vaihdass)<br>
-**E-mail:** [kozobrodovg@yandex.ru](mailto:kozobrodovg@yandex.ru)<br>
+**E-mail:** [kozobrodovg@yandex.ru](mailto:kozobrodovg@yandex.ru)
 
 <!-- <div>
   <a href="https://www.linkedin.com/in/vaihdass"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&amp;logo=linkedin"></a>
   <a href="https://leetcode.com/vaihdass"><img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&amp;logo=LeetCode" alt="LeetCode" style="max-width: 100%;"></a>
 </div>
---><br>
+<br>-->
 
-## Experience<br>
-#### 🎓 Studying at [KFU ITIS](https://kpfu.ru/itis)
+### 👀 Experience<br>
+#### Studying at [KFU ITIS](https://kpfu.ru/itis)
 ##### _Your company could be here_ =)<br><br>
 
 <!-- ## Extra
@@ -26,12 +26,12 @@
 
 **Hobbies** — Clarinet in B-flat<br><br>-->
 
-## Statistics
+### 📊 Statistics
 ##### LeetCode
 [![Vaihdass's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vaihdass&theme=transparent)](https://leetcode.com/vaihdass)
 
 <details>
-<summary><b>📊 Github stats</b></summary>
+<summary><b>Github stats</b></summary>
 <div id="stats">
   <img width="65%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaihdass&theme=transparent">
   <img width="30%" style="margin-left: 5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaihdass&langs_count=10&layout=compact&hide_border=true&theme=transparent">
