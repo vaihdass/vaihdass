@@ -18,17 +18,17 @@
 #### 🎓 Studying at [KFU ITIS](https://kpfu.ru/itis)
 ##### _Your company could be here_ =)<br><br>
 
-## Extra
+<!-- ## Extra
 **Languages**:
 - 🇷🇺 Russian (native)
 - 🇬🇧 English (A2)
 - 🇫🇮 Finland (basic)<br>
 
-**Hobbies** — Clarinet in B-flat<br><br>
+**Hobbies** — Clarinet in B-flat<br><br>-->
 
 ## Statistics
 ##### LeetCode
-[![Vaihdass's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vaihdass)](https://leetcode.com/vaihdass)
+[![Vaihdass's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vaihdass&theme=transparent)](https://leetcode.com/vaihdass)
 
 <details>
 <summary><b>📊 Github stats</b></summary>
