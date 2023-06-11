@@ -28,7 +28,7 @@
 
 ### 📊 Statistics
 ##### LeetCode
-[![Vaihdass's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vaihdass&theme=transparent)](https://leetcode.com/vaihdass)
+[![Vaihdass's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vaihdass&theme=dark)](https://leetcode.com/vaihdass)
 
 <details>
 <summary><b>Github stats</b></summary>
