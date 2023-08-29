@@ -26,13 +26,12 @@
 
 **Hobbies** — Clarinet in B-flat<br><br>-->
 
-### 📊 Statistics
-##### LeetCode
-[![Vaihdass's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=vaihdass&theme=dark)](https://leetcode.com/vaihdass)
+<!-- ### 📊 Statistics -->
 
 <details>
-<summary><b>Github stats</b></summary>
+<summary><b>📊 Stats</b></summary>
 <div id="stats">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=vaihdass&theme=dark">
   <img width="65%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaihdass&theme=transparent">
   <img width="30%" style="margin-left: 5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaihdass&langs_count=10&layout=compact&hide_border=true&theme=transparent">
 </div>
