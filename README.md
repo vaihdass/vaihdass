@@ -21,3 +21,17 @@
   <img width="30%" style="margin-left: 5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaihdass&langs_count=10&layout=compact&hide_border=true&theme=transparent">
 </div>
 </details>
+
+<h3>Tech</h3>
+<code><img height="48" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg"></code>
+<!-- <code><img height="48" alt="spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"></code> -->
+<code><img height="48" alt="golang" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg"></code>
+<!--
+<code><img height="48" alt="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="48" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="42" alt="kotlin" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
+-->
+<code><img height="48" alt="linux" src="https://rossaprimavera.ru/static/files/5a552a8f1b68.jpg"></code>
+<code><img height="48" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+<code><img height="48" alt="html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+<code><img height="48" alt="css" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
