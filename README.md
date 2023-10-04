@@ -15,7 +15,7 @@
 
 <details>
 <summary><b>📊 Github statistics</b></summary>
-<div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=vaihdass&theme=transparent"></div>
+<div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=vaihdass&theme=dark"></div>
 <div>
   <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaihdass&theme=transparent">
   <img width="30%" style="margin-left: 5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaihdass&langs_count=10&layout=compact&hide_border=true&theme=transparent">
