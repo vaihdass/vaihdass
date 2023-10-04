@@ -1,7 +1,7 @@
 <div>
   <p align="center"><a href="https://t.me/vaihdass"><img height="48" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"></a></p>
   <h2 align="center">Hei, mä oon Georgy<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" height="22" style="margin-left:1.5%;"/></h2>
-  <p align="center">🇫🇮  <b>Telegram <a href="https://t.me/vaihdass" target="_blank">@Vaihdass</a> & Email <a href="mailto:kozobrodovg@yandex.ru" target="_blank">kozobrodovg@yandex.ru</a></b>  🇷🇺</p>
+  <p align="center">🇫🇮  <b>Telegram <a href="https://t.me/vaihdass" target="_blank">@Vaihdass</a> & Email <a href="mailto:kozobrodovg@yandex.ru" target="_blank">kozobrodovg@ya.ru</a></b>  🇷🇺</p>
 </div><br>
 
 <h3>Links</h3>
