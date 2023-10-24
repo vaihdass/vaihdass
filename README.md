@@ -12,6 +12,8 @@
 </div><br>
 
 **Studying at <a href="https://kpfu.ru/itis">KFU ITIS</a>**
+<br><br>
+<a href="https://vk.com/sosiszaebis"><img width="360" src="https://github.com/vaihdass/vaihdass/assets/82764694/94272a6c-3a44-4dee-82b9-59fcb473630c"></a>
 
 <details>
 <summary><b>📊 Github statistics</b></summary>
