@@ -10,8 +10,7 @@
   <a href="https://t.me/vaihdass"><img height="24px" src="https://img.shields.io/badge/Telegram-blue" alt="Telegram"></a>
   <a href="mailto:kozobrodovg@yandex.ru"><img height="24px" src="https://img.shields.io/badge/Email-red" alt="E-mail"></a>
   <a href="https://leetcode.com/vaihdass"><img height="24px" src="https://img.shields.io/badge/LeetCode-orange" alt="LeetCode"></a>
-</div><br>
-<br><br>
+</div>
 
 <!-- <h3>Tech</h3> -->
 <!-- <code><img height="48" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg"></code> -->
