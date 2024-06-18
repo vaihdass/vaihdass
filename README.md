@@ -4,7 +4,7 @@
   <p align="center"><b>Telegram <a href="https://t.me/vaihdass" target="_blank">@vaihdass</a></b></p>
 </div><br>
 
-<h3>Links</h3>
+<!-- <h3>Links</h3> -->
 <div>
   <!-- <a href="https://www.linkedin.com/in/vaihdass"><img alt="LinkedIn" height="24px" src="https://img.shields.io/badge/LinkedIn-darkblue"></a>
   <a href="https://t.me/vaihdass"><img height="24px" src="https://img.shields.io/badge/Telegram-blue" alt="Telegram"></a>
