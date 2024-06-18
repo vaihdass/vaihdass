@@ -6,10 +6,10 @@
 
 <h3>Links</h3>
 <div>
-  <!-- <a href="https://www.linkedin.com/in/vaihdass"><img alt="LinkedIn" height="24px" src="https://img.shields.io/badge/LinkedIn-darkblue"></a> -->
+  <!-- <a href="https://www.linkedin.com/in/vaihdass"><img alt="LinkedIn" height="24px" src="https://img.shields.io/badge/LinkedIn-darkblue"></a>
   <a href="https://t.me/vaihdass"><img height="24px" src="https://img.shields.io/badge/Telegram-blue" alt="Telegram"></a>
   <a href="mailto:kozobrodovg@yandex.ru"><img height="24px" src="https://img.shields.io/badge/Email-red" alt="E-mail"></a>
-  <a href="https://leetcode.com/vaihdass"><img height="24px" src="https://img.shields.io/badge/LeetCode-orange" alt="LeetCode"></a>
+  <a href="https://leetcode.com/vaihdass"><img height="24px" src="https://img.shields.io/badge/LeetCode-orange" alt="LeetCode"></a> -->
 </div>
 
 <!-- <h3>Tech</h3> -->
