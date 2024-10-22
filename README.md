@@ -11,7 +11,7 @@
 -->
 <div align="center">
   <h2>Hi, I'm Georgy &nbsp;👋</h2>
-  <p><b>📫 Reach me on Telegram <a href="https://t.me/vaihdass">@vaihdass</a> &nbsp;|&nbsp; <img height="15px" src="https://github.com/user-attachments/assets/fb19e59e-a0ad-4cdc-a173-daa683d46295">&nbsp; Read me on <a href="https://blogi.vaihdass.ru/en/">Blogi</a></b></p><br>
+  <p><b>📫 Reach me in Telegram <a href="https://t.me/vaihdass">@vaihdass</a> &nbsp;|&nbsp; <img height="15px" src="https://github.com/user-attachments/assets/fb19e59e-a0ad-4cdc-a173-daa683d46295">&nbsp; Read me on <a href="https://blogi.vaihdass.ru/en/">Blogi</a></b></p><br>
   <a title="Telegram" href="https://t.me/vaihdass"><img height="40px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/refs/heads/master/SVG/Color/Telegram.svg" alt="Telegram"></a> &nbsp;
   <a title="Leetcode" href="https://leetcode.com/vaihdass"><img height="40px" src="https://github.com/user-attachments/assets/45f18a50-0230-4fd0-85c4-5e618c35a1ce" alt="Leetcode"></a> &nbsp;
   <a title="Blogi" href="https://blogi.vaihdass.ru/en/"><img height="38px" src="https://github.com/user-attachments/assets/fb19e59e-a0ad-4cdc-a173-daa683d46295" alt="Blogi"></a>
